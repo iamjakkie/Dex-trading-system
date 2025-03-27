@@ -1,6 +1,5 @@
 # Dex-trading-system
 
-```html
 <img src="diagram.png" alt="System Diagram" usemap="#diagrammap" />
 
 <map name="diagrammap">
@@ -32,4 +31,3 @@
     href="https://github.com/iamjakkie/Backtester"
     alt="Backtester" />
 </map>
-```
