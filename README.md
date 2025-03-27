@@ -1,6 +1,6 @@
 # Dex-trading-system
 
-<img src="diagram.png" alt="System Diagram" usemap="#diagrammap" />
+<img src="https://iamjakkie-public.s3.eu-central-1.amazonaws.com/trading-diagram.png" alt="System Diagram" usemap="#diagrammap" />
 
 <map name="diagrammap">
   <!-- Block Indexer -->
